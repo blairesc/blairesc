@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is **Blaire Swaby-Clacken** :smile:
+
+I am **indulging** in the art of web design and web development ! :computer: :iphone:
+
+![Animation gif](ezgif.com-gif-maker.gif)
+
+*Thank You for visting my profile* :purple_heart:
+
 <!--
 **blairesc/blairesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
