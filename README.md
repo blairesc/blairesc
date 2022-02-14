@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Blaire Swaby-Clacken** :smile:
+My name is **Blaire** :smile:
 
 I am **indulging** in the art of web design and web development ! :computer: :iphone:
 
